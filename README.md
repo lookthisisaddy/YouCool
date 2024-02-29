@@ -3,7 +3,7 @@
 ### Weblink: [Live Website] https://myyoucool.netlify.app/
 
 ## Peek Inside:
-<img src="https://github.com/lookthisisaddy/YouCool/src/assets/livdemo.gif" width=450px/>
+<img src="https://github.com/lookthisisaddy/YouCool/blob/master/src/assets/livdemo.gif" width=480/>
 
 ## Introduction
 Welcome to YouCool, a dynamic YouTube clone crafted with React.js, HTML&CSS, and powered by the YouTube API, bringing you a seamless viewing experience(without any ads😉).
